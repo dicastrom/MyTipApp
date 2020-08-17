@@ -18,13 +18,13 @@ GIF of the app found here
 
  https://imgur.com/waQ7Ae5
  
- ## Video Walkthrough
+ ## Live Demo
 
-Here's a walkthrough of implemented user stories:
+Here's how the app works:
 
 <img src='http://g.recordit.co/m8SCpmqUM9.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
 
-The app worked just fine....until I connected it to github. Then XCode refused to let me re-open the project, and despite the app being on the simulator and working just fine (git looked alright too) I was not able to re-open it. Tried re-opening it again and the simulator would crash seemingly randomly. Finnaly got it working after restarting an closing everyhting and seems to be ok.
+The app worked just fine....until I connected it to github. Then XCode refused to let me re-open the project, and despite the app being on the simulator and working just fine (git looked alright too) I was not able to re-open it. Tried re-opening it again and the simulator would crash seemingly randomly. Finnaly got it working after restarting an closing everything and seems to be ok.
